@@ -3,7 +3,7 @@ Dyslexia friendly Linux read highlighted texts with tts with a hotkey. similar t
 
 # install
 
-set a speach dispatcher use espeak, piper or any other learn about that here [wiki.archlinux_speech_dispatcher](https://wiki.archlinux.org/title/Speech_dispatcher)
+if not already installed, set a speach dispatcher use espeak, piper or any other learn about that here [wiki.archlinux_speech_dispatcher](https://wiki.archlinux.org/title/Speech_dispatcher)
 
 test speak dispatcher is installed and works with:
 
