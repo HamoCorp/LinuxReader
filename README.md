@@ -3,9 +3,9 @@ Dyslexia friendly Linux read highlighted texts with tts and a hotkey. similar to
 
 # install
 
-if not already installed, set a speach dispatcher use espeak, piper or any other learn about that here [wiki.archlinux_speech_dispatcher](https://wiki.archlinux.org/title/Speech_dispatcher)
+set a speech dispatcher use espeak, piper or any other learn about that here [wiki.archlinux_speech_dispatcher](https://wiki.archlinux.org/title/Speech_dispatcher) might already be installed if your distro has accessibility tools
 
-test speach dispatcher is installed and works with this command:
+test speach dispatcher works with this command:
 
 ```spd-say "test"```
 
