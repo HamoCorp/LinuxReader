@@ -1,5 +1,5 @@
 # LinuxReader
-Dyslexia friendly Linux read highlighted texts with tts and a hotkey. similar to browser extentions like speakit but works across the whole Linux pc even read from the terminal 
+Dyslexia friendly Linux read highlighted texts with TTS and a hotkey. similar to browser extentions like speakit but works across the whole Linux pc even read from the terminal 
 
 # install
 
